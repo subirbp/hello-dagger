@@ -3,7 +3,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
-  <main style="background-color: blue;">
+  <main style="background-color: green;">
     <TheWelcome />
   </main>
 </template>
